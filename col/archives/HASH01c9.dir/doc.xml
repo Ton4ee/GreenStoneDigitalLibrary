@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\DAF0%7E1.HTM</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">2370</Metadata>
+    <Metadata name="Source">Културни и природни знаменитости.html</Metadata>
+    <Metadata name="SourceFile">DAF0%257E1.HTM</Metadata>
+    <Metadata name="Language">ru</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Културни и природни знаменитости</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://&amp;#x41A;&amp;#x443;&amp;#x43B;&amp;#x442;&amp;#x443;&amp;#x440;&amp;#x43D;&amp;#x438; &amp;#x438; &amp;#x43F;&amp;#x440;&amp;#x438;&amp;#x440;&amp;#x43E;&amp;#x434;&amp;#x43D;&amp;#x438; &amp;#x437;&amp;#x43D;&amp;#x430;&amp;#x43C;&amp;#x435;&amp;#x43D;&amp;#x438;&amp;#x442;&amp;#x43E;&amp;#x441;&amp;#x442;&amp;#x438;.html</Metadata>
+    <Metadata name="UTF8URL">http://%41A%443%43B%442%443%440%43D%438 %438 %43F%440%438%440%43E%434%43D%438 %437%43D%430%43C%435%43D%438%442%43E%441%442%438.html</Metadata>
+    <Metadata name="Identifier">HASH01c9ec11a02f9ae79b01e8ca</Metadata>
+    <Metadata name="lastmodified">1717377105</Metadata>
+    <Metadata name="lastmodifieddate">20240603</Metadata>
+    <Metadata name="oailastmodified">1717379393</Metadata>
+    <Metadata name="oailastmodifieddate">20240603</Metadata>
+    <Metadata name="assocfilepath">HASH01c9.dir</Metadata>
+  </Description>
+  <Content>
+&lt;h1 align=&quot;center&quot;&gt;Кавадарци&lt;/h1&gt;
+&lt;h3 align=&quot;center&quot;&gt; Верски градби&lt;/h3&gt;
+
+ &lt;li&gt;Црква „Св. Димитриј“ - централна парохиска црква, возобновена е во 1834 година;&lt;/li&gt;
+  &lt;li&gt;Црква „Св. Петка“ - најновата и најголема црква во градот. Камен-темелникот е удрен на 7 август 2010, а осветена на 18 октомври 2015 година;[13] &lt;/li&gt;
+  &lt;li&gt;Параклис „Св. Јован Крстител“ - крстилна, се наоѓа веднаш до црквата „Св. Петка“; &lt;/li&gt;
+  &lt;li&gt; Централна џамија - единствената џамија во градот; &lt;/li&gt;
+  &lt;li&gt;Христијанска Адвентистичка Црква - единствена адвентистичка црква во градот. &lt;/li&gt;
+
+&lt;h3 align=&quot;center&quot;&gt;Археолошки наоѓалишта&lt;/h3&gt;
+&lt;li&gt;Бабин Дол - населба и некропола од римско време;&lt;/li&gt;
+&lt;li&gt;Бегова Падина - населба од бакарно време;&lt;/li&gt;
+&lt;li&gt;Бел Град - населба од доцноантичко време;&lt;/li&gt;
+&lt;li&gt;Гавалиница - некропола од римско време;&lt;/li&gt;
+&lt;li&gt;Гумнињата - некропола од римско време;&lt;/li&gt;
+&lt;li&gt;Дисанско Мовче - некропола од доцноантичко време;&lt;/li&gt;
+&lt;li&gt;Желковец - некропола од римско време;&lt;/li&gt;
+&lt;li&gt;Карамански Рид - населба од римско време;&lt;/li&gt;
+&lt;li&gt;Ливадиште - некропола од римско време;&lt;/li&gt;
+&lt;li&gt;Малинови Куќи - населба и некропола од доцноантичко време;&lt;/li&gt;
+&lt;li&gt;Манастир - населба и некропола од доцноантичко време;&lt;/li&gt;
+&lt;li&gt;Овово - населба и некропола од римско време;
+&lt;/li&gt;
+&lt;li&gt;Црквиште - некропола од доцноантичко време;&lt;/li&gt;
+
+</Content>
+</Section>
+</Archive>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\F292%7E1\F6B5%7E1.JPG</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">F6B5~1.JPG</Metadata>
+    <Metadata name="OrigSource">Кавадарци Џаламари.jpg</Metadata>
+    <Metadata name="Source">Кавадарци Џаламари.jpg</Metadata>
+    <Metadata name="SourceFile">F6B5%257E1.JPG</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">11302</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">259</Metadata>
+    <Metadata name="ImageHeight">194</Metadata>
+    <Metadata name="ImageSize">11KB</Metadata>
+    <Metadata name="srclink_file">F6B5~1.JPG</Metadata>
+    <Metadata name="srclinkFile">F6B5~1.JPG</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">F6B5~1_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">75</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">F6B5~1_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">375</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Кавадарци Џаламари</Metadata>
+    <Metadata name="Identifier">HASH01598f107033a4883e1f4c19</Metadata>
+    <Metadata name="lastmodified">1717378502</Metadata>
+    <Metadata name="lastmodifieddate">20240603</Metadata>
+    <Metadata name="oailastmodified">1717379400</Metadata>
+    <Metadata name="oailastmodifieddate">20240603</Metadata>
+    <Metadata name="assocfilepath">HASH0159.dir</Metadata>
+    <Metadata name="gsdlassocfile">F6B5~1.JPG:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">F6B5~1_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">F6B5~1_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

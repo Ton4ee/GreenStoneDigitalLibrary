@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\F292%7E1\31DF%7E1.JPG</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">31DF~1.JPG</Metadata>
+    <Metadata name="OrigSource">Кавадарци традиција.jpg</Metadata>
+    <Metadata name="Source">Кавадарци традиција.jpg</Metadata>
+    <Metadata name="SourceFile">31DF%257E1.JPG</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">213394</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">800</Metadata>
+    <Metadata name="ImageHeight">450</Metadata>
+    <Metadata name="ImageSize">208KB</Metadata>
+    <Metadata name="srclink_file">31DF~1.JPG</Metadata>
+    <Metadata name="srclinkFile">31DF~1.JPG</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">31DF~1_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">56</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">31DF~1_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">281</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Кавадарци традиција</Metadata>
+    <Metadata name="Identifier">HASH01feb7107033a46ee22226ca</Metadata>
+    <Metadata name="lastmodified">1717378502</Metadata>
+    <Metadata name="lastmodifieddate">20240603</Metadata>
+    <Metadata name="oailastmodified">1717379396</Metadata>
+    <Metadata name="oailastmodifieddate">20240603</Metadata>
+    <Metadata name="assocfilepath">HASH01fe.dir</Metadata>
+    <Metadata name="gsdlassocfile">31DF~1.JPG:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">31DF~1_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">31DF~1_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>
